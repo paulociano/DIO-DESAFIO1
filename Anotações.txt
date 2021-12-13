@@ -1,1 +1,6 @@
 Link para o GIT: https://github.com/paulociano/DIO-DESAFIO1.git
+
+GIT Bash
+Git Add .
+Git Commit -m ""
+Git push origin main
